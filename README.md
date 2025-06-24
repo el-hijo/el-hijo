@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Akintunde 👋</h1>
 
 <p align="center">
-  <i>🚀 Aspiring Backend Developer | 🎓 ALX ProDev Learner | ⚙️ Former Civil & Subsea Engineer</i>
+  <i>🚀 Aspiring Backend Developer | 🎓 ALX ProDev Learner | ⚙️ Civil & Subsea Engineer</i>
 </p>
 
 ---
